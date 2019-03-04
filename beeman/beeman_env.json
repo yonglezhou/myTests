@@ -1,0 +1,15 @@
+{
+	"id": "d815d9ae-98c6-41d9-8685-d6ca128e2757",
+	"name": "beeman",
+	"values": [
+		{
+			"key": "host",
+			"value": "http://bee.likesoso.com",
+			"description": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-02-13T09:00:45.899Z",
+	"_postman_exported_using": "Postman/6.6.1"
+}
